@@ -1,0 +1,52 @@
+// EJERCICIOS ESTRUCTURAS CONDICIONALES
+// Quitar comentarios para visualizar uno a uno
+
+
+//#1 APROVADO O REPROBADO
+
+
+
+//#2 NUMERO MAS GRANDE
+
+
+
+
+//#3 POSITIVO O NEGATIVO
+
+
+
+
+//#4 DESCUENTOS
+
+
+
+
+//#5 EL MAYOR DE LOS NUMEROS
+
+
+
+
+//#6 PRESUPUESTO BANQUETES
+
+
+
+
+//#7 VIAJE ESCOLAR
+
+
+
+
+//#8 COMPAÑIA DE AUTOBUSES
+
+
+
+
+//#9 HAMBURGUESAS
+
+
+
+
+//#10 FABRICAS "EL COMETA"
+
+
+
